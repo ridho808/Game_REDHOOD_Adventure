@@ -40,6 +40,14 @@ Atas={
  ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="hero"
+2d_physics/layer_2="level"
+2d_physics/layer_3="musuh"
+2d_physics/layer_4="barang"
+2d_physics/layer_5="fallzone"
+
 [physics]
 
 common/enable_pause_aware_picking=true
